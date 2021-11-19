@@ -30,7 +30,7 @@ Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
 $ git clone https://github.com/gabrielgws/letmeask
-$ cd nlw-06-reactjs
+$ cd letmeask
 ```
 
 Para iniciá-lo, siga os passos abaixo:
@@ -61,7 +61,6 @@ Você pode visualizar o layout do projeto através do link abaixo:
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 
 ## 📝 License
-
 
 ---
 
